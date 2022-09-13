@@ -1,4 +1,4 @@
-const App = () => {
+const App = ()  {
   return (
    <div>Hi Word what's up</div>
   );
